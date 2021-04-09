@@ -1,6 +1,6 @@
 # console.log('Hello, github 🤟🏼!')
 
-My name is Marina, I'm 23 years old living in Florianópolis and I'm a control and automation engineer grad student at UFSC ~~(hopefully I'll get my degree this year)~~. I've been working with ReactJS for 1 year and 6 months as a Software Engineer Intern at [Jungle Devs](https://www.linkedin.com/company/jungledevs), and I can say that I'm really passionate with web development.
+My name is Marina, I'm 24 years old living in Florianópolis and I'm a control and automation engineer grad student at UFSC ~~(hopefully I'll get my degree this year)~~. I've been working with ReactJS for 2 year and 3 months as a Software Engineer at [Jungle Devs](https://www.linkedin.com/company/jungledevs), and I can say that I'm really passionate with web development.
 
 Here at my github you can find some content that I've done during my graduation and also some repos regarding some tutorials that I had followed (still trying to learn a bit of NodeJS as well).
 
