@@ -19,4 +19,6 @@ My name is Marina, I'm 24 years old living in Florianópolis and I got a Bachelo
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinastavares&hide=php&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
