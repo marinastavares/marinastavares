@@ -1,6 +1,6 @@
 # console.log('Hello, github 🤟🏼!')
 
-My name is Marina, I'm 24 years old living in Florianópolis and I got a Bachelor degree on Control and Automation Engineer. I've been working with ReactJS for 2 year and 7 months as a Software Engineer at [Jungle Devs](https://www.linkedin.com/company/jungledevs), and I can say that I'm really passionate with web development.
+My name is Marina, I'm 24 years old living in Florianópolis and I got a Bachelor degree on Control and Automation Engineer. I've been working with ReactJS since early 2019 and I can say that I'm really passionate with web development. I'm currently working as a consulting at [OnRising](https://www.onrising.com/) working directly as a Frontend Software Engineer at [Bliss Applications](https://br.linkedin.com/company/bliss-applications).
 
  
  ## Repos that i'm really proud of
@@ -12,8 +12,11 @@ My name is Marina, I'm 24 years old living in Florianópolis and I got a Bachelo
 
 ## You can find me at
 
- - [Linkedin](https://www.linkedin.com/in/marinastavares/)
- - [Facebook](https://www.facebook.com/marinastavares/)
- - marinastavares6@gmail.com
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marinastavares)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marinastavares)
+
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinastavares&hide=php&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
