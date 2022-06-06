@@ -11,7 +11,7 @@
 <br />
 
 
-My name is Marina, I'm 25 years old living in Florianópolis and I got a Bachelor degree on Control and Automation Engineer. I've been working with ReactJS since early 2019 and I can say that I'm really passionate with web development. I'm currently working as a consulting at [OnRising](https://www.onrising.com/) working directly as a Frontend Software Engineer at [Bliss Applications](https://br.linkedin.com/company/bliss-applications). You can check more about me on my [website](https://www.marinastavares.dev).
+My name is Marina, I'm 25 years old living in Lisbon and I got a Bachelor degree on Control and Automation Engineer. I've been working with ReactJS since early 2019 and I can say that I'm really passionate with web development. I'm currently working as a consulting at [OnRising](https://www.onrising.com/) working directly as a Frontend Software Engineer at [Bliss Applications](https://br.linkedin.com/company/bliss-applications). You can check more about me on my [website](https://www.marinastavares.dev).
 
 
 
